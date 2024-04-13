@@ -4,8 +4,6 @@
 
 This website is created in plain HTML, CSS and JavaScript. No frameworks are used for this project.
 
-The deployed website can be found [Here](https://tonnyg95.github.io/Rock-Paper-Scissors/)
-
 
 ### What are the rules of RPS?
 Although the game has a lot of complexity, the rules to play it are pretty simple.
