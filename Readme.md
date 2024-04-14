@@ -5,7 +5,7 @@
 This website is created in plain HTML, CSS and JavaScript. No frameworks are used for this project.
 
 <br>
-<a href="https://kaushall007.github.io/rock-paper-scissor/"> Check Here </a> 
+<a href="https://kaushall007.github.io/rock-paper-scissor/" target="_blank"> Check Here </a> 
 
 ### What are the rules of RPS?
 Although the game has a lot of complexity, the rules to play it are pretty simple.
